@@ -4,7 +4,10 @@ h1 {
 }
 
 div {
+<<<<<<< HEAD
     background: rgb(255, 77, 0);
+=======
+>>>>>>> 3b9161b (removed css div backgrauond)
     max-width: 1200px;
     border: 1px; 
 }
